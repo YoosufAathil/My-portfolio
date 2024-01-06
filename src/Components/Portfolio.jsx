@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Job Finder",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Job Finder is a front-end website built using Vite, React, and Tailwind CSS. The site allows users to search for job openings based on their preferred location and industry. It features a clean and modern interface that's easy to navigate.",
+    url: "https://yoosufaathil.github.io/Job-Finder/",
   },
   {
     title: "Web Development for Beginners",
